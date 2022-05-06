@@ -12,6 +12,7 @@ function App() {
     <div className="App">
     <Navbar />
     <RouterComp />
+    <h2>git hub</h2>
     
 
     </div>
